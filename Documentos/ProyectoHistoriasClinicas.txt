@@ -24,7 +24,7 @@ PRODUCT BACKLOG, retroalimentado, aprobado por el Cliente del Proyecto para soci
 	SCRUM-MASTER
                Ingeniero Senior: Jésus Salvador Areiza Fernández
                Lider facilitador de la gestion del equipo de SCRUM-DEVELOP que al ser conocedor de sus fortalezas, 
-               establecerá: Marcos de tiempo       
+                establecerá: Marcos de tiempo       
                             Entrega de especificaciones de desarrollo y aclaraciones
                             Acordará asignacion de tareas	
                             Tiempos de entrega
@@ -39,8 +39,8 @@ PRODUCT BACKLOG, retroalimentado, aprobado por el Cliente del Proyecto para soci
                 Ingeniera/o de Software: Yasmín Torres Mora, 
                                          Victor Manuel Patiño Cañas,
                                          Walter Alvarez,
-                                         Jésus Salvador Areiza Fernández, 
-                                         Walter Álvarez,
+                                         Jésus Salvador Areiza Fernández,
+                                         Jorge Rodriguez Gomez,
                                          Fernando Euclides sarmiento Benitez.
                 Acometen con: entusiasmo, confianza, compromiso y colaboracion las tareas recibidas para el logro efectivo, eficiente y oportuno del sprint objetivo 
 
